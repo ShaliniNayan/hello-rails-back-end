@@ -14,7 +14,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [🎥 Video Demonstration](#video-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -90,7 +90,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/mohametalmeari/hello-rails-back-end.git
+  git clone git@github.com:ShaliniNayan/hello-rails-back-end.git
 ```
 
 ### Install
@@ -170,6 +170,6 @@ If you like this project, please give it a star ⭐.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
