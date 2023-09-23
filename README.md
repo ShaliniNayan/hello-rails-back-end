@@ -33,7 +33,7 @@
 
 # 📖 i-budget <a name="about-project"></a>
 
-*Hello Api* is a back end api that returns a random greeting. This api is being used by [Hello Front End App](https://github.com/mohametalmeari/hello-react-front-end). 
+*Hello Api* is a back end api that returns a random greeting. This api is being used by [Hello Front End App](https://github.com/ShaliniNayan/hello-react-front-end.git). 
 
 ## 🛠 Built With <a name="built-with"></a>
 
