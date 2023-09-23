@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'greetings#random'
+  get '/random_greeting', to: 'greetings#random'
 end
